@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on building my portfolio!
 - 🌱 I’m currently learning C++, HTML, CSS, JavaScript
 - 📫 How to reach me: jasoguan10@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love boba!
 
 ### Socials:
