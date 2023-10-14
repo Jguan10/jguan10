@@ -6,4 +6,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love boba!
 
+### Socials:
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jguan10)](https://github.com/anuraghazra/github-readme-stats)
+// Thanks to https://github.com/anuraghazra for the stats!
