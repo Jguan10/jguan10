@@ -1,11 +1,8 @@
 ### Hi there 👋 My name is Jason Guan!
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on building my portfolio!
 - 🌱 I’m currently learning C++, HTML, CSS, JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: jasoguan10@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love boba!
--->
+
