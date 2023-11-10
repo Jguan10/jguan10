@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C++, HTML, CSS, JavaScript
 - 📫 How to reach me: jasoguan10@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love boba!
+- ⚡ Fun fact: I love rose bubble milk tea!
 
 ### Socials:
 <div class = "badges">
