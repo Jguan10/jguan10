@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Guan</h1>
 <h3 align="center">Senior @ Hunter College | Data Science Fellow @ CTP</h3>
+
 - 👜 Aspiring data scientist with an interest in leveraging data and AI for improving minority and underserved communities 
 - 🔭 I’m currently working on RxID 
 - 🌱 I’m currently learning computer vision and RAG! 
