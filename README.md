@@ -2,7 +2,7 @@
 <h3 align="center">Senior @ Hunter College | Data Science Fellow @ CTP</h3>
 
 - 👜 Aspiring data scientist with an interest in leveraging data and AI for improving minority and underserved communities 
-- 🔭 I’m currently working on RxID 
+- 🔭 I’m currently working on RxID, an AI powered medicine summarizer to reduce medical mistrust and raise awareness
 - 🌱 I’m currently learning computer vision and RAG! 
 - 📫 How to reach me: jasoguan10@gmail.com 
 - 😄 Pronouns: He/Him 
