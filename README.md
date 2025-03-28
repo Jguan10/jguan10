@@ -11,7 +11,7 @@
   <strong>📚 Learning:</strong> Computer vision, Retrieval-Augmented Generation (RAG) models, and agents.
 </p>
 <p>
-  <strong>😄 Pronouns:</strong> He/Him | <strong>🍵 Favorite Teas:</strong> Jasmine, Rose, Tieguanyin
+   <strong>🍵 Favorite Teas:</strong> Jasmine, Rose, Tieguanyin | <strong>😄 Pronouns:</strong> He/Him 
 </p>
 
 <h3 align="left">Connect with me:</h3>
