@@ -1,37 +1,68 @@
 <h1 align="center">Hi 👋, I'm Jason Guan</h1>
 <h3 align="center">Senior @ Hunter College | Data Science Fellow @ CTP</h3>
 
-- 👜 Aspiring data scientist with an interest in leveraging data and AI for improving minority and underserved communities 
-- 🔭 I’m currently working on RxID, an AI-powered medicine summarizer to reduce medical mistrust and raise awareness
-- 🌱 I’m currently learning computer vision, RAG models, and agents
-- 😄 Pronouns: He/Him 
-- 🍵 Favorite teas: Jasmine, Rose, Tieguanyin
+<p align="center">
+  <strong>🏫 Aspiring Data Scientist</strong> | Passionate about leveraging data and AI to empower underserved communities.
+</p>
+<p align="center">
+  <strong>🚀 Currently working on:</strong> <a href="https://github.com/YourRepo/RxID" target="_blank">RxID</a>, an AI-powered medicine summarizer aimed at reducing medical mistrust and promoting awareness.
+</p>
+<p align="center">
+  <strong>📚 Learning:</strong> Computer vision, Retrieval-Augmented Generation (RAG) models, and agents.
+</p>
+<p align="center">
+  <strong>😄 Pronouns:</strong> He/Him | <strong>🍵 Favorite Teas:</strong> Jasmine, Rose, Tieguanyin
+</p>
 
 <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/jiaxiong-guan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiaxiong guan" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jiaxiong-guan/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Jason Guan" height="30" width="40" />
+  </a>
+  <!-- Add other social links here if needed -->
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
 </p>
 
-## GitHub Stats
-
+<h3 align="left">GitHub Stats:</h3>
 <table><tbody><tr border="none"><td width="50%" align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Jguan10&theme=dark"></td><td width="100%" align="center">
-  <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=jguan10&theme=dark&layout=compact&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
- </td></tr></tbody></table>
+  <img alt="Streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Jguan10&theme=dark" />
+</td><td width="50%" align="center">
+  <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=jguan10&theme=dark&layout=compact&hide_border=false&no-bg=true&no-frame=true&langs_count=6" />
+</td></tr></tbody></table>
 
