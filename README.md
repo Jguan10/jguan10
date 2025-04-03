@@ -14,7 +14,7 @@
    <strong>🍵 Favorite Teas:</strong> Jasmine, Rose, Tieguanyin | <strong>😄 Pronouns:</strong> He/Him 
 </p>
 <p>
-  📖 "We ought never to do wrong when people are looking" - Mark Twain
+  📖 "We ought never to do wrong when people are looking." - Mark Twain
 </p>
 
 <h3 align="left">Connect with me:</h3>
