@@ -13,6 +13,9 @@
 <p>
    <strong>🍵 Favorite Teas:</strong> Jasmine, Rose, Tieguanyin | <strong>😄 Pronouns:</strong> He/Him 
 </p>
+  <strong>📜 Certifications: </strong>
+  
+- ![Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/S3Y3D1RTHKI9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
