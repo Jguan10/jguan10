@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jason Guan</h1>
-<h3 align="center">Senior @ Hunter College | Data Science Fellow @ CTP</h3>
+<h3 align="center">Senior @ Hunter College | Data Science Intern @ MSKCC</h3>
 
 <p>
   <strong>🏫 Aspiring Data Scientist</strong> | Passionate about leveraging data and AI to empower underserved communities.
 </p>
 <p>
-  <strong>🚀 Currently working on:</strong> <a href="https://github.com/YourRepo/RxID" target="_blank">RxID</a>, an AI-powered medicine summarizer aimed at reducing medical mistrust and promoting awareness.
+  <strong>🚀 Currently working on: various projects at MSKCC!
 </p>
 <p>
-  <strong>📚 Learning:</strong> Computer vision, Retrieval-Augmented Generation (RAG) models, and agents.
+  <strong>📚 Learning:</strong> Computer vision, Retrieval-Augmented Generation (RAG) models, NLP, NER, image segmentation and agents.
 </p>
 <p>
    <strong>🍵 Favorite Teas:</strong> Jasmine, Rose, Tieguanyin | <strong>😄 Pronouns:</strong> He/Him 
