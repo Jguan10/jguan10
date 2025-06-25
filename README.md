@@ -5,7 +5,7 @@
   <strong>🏫 Aspiring Data Scientist</strong> | Passionate about leveraging data and AI to empower underserved communities.
 </p>
 <p>
-  <strong>🚀 Currently working on: various projects at MSKCC!
+  <strong>🚀 Currently working on: </strong> various projects at MSKCC!
 </p>
 <p>
   <strong>📚 Learning:</strong> Computer vision, Retrieval-Augmented Generation (RAG) models, NLP, NER, image segmentation and agents.
