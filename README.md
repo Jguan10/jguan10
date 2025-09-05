@@ -8,7 +8,7 @@
   <strong>🚀 Currently working on: </strong> Exploring MCP and Pydantic!
 </p>
 <p>
-  <strong>📚 Learning:</strong> Computer vision, Retrieval-Augmented Generation (RAG) models, NLP, NER, image segmentation and agents.
+  <strong>📚 Learning:</strong> Computer Vision, Image Segmentation, AWS, MCP, NLP!
 </p>
 <p>
    <strong>🍵 Favorite Teas:</strong> Jasmine, Rose, Tieguanyin | <strong>😄 Pronouns:</strong> He/Him 
