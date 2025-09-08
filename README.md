@@ -2,7 +2,7 @@
 <h3 align="center">Senior @ Hunter College | Prev Data Science Intern @ MSKCC | Data Science Alum @ CTP</h3>
 
 <p>
-  <strong>🏫 Aspiring Data Scientist</strong> | Passionate about leveraging data and AI to empower underserved communities.
+  <strong>🏫 Aspiring Data Scientist</strong> | Passionate about leveraging data and AI to break through traditional processes
 </p>
 <p>
   <strong>🚀 Currently working on: </strong> Exploring MCP and Pydantic!
