@@ -17,7 +17,7 @@
   <strong>📖 Reading: </strong> Causal Inference in Statistics: A Primer by Judea Pearl, Madelyn Glymour, Nicholas P. Jewell
 </p>
 <p>
-  We ought never to do wrong when people are looking. - Mark Twain
+  *We ought never to do wrong when people are looking*. - Mark Twain
 </p>
 
 
