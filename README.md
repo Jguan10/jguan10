@@ -29,6 +29,9 @@
   <a href="https://github.com/Jguan10/Resume/blob/main/Resume.pdf">
     <img align="center" src = "https://cdn.iconscout.com/icon/free/png-512/free-resume-icon-download-in-svg-png-gif-file-formats--cv-profile-biodata-portfolio-jobs-job-services-pack-carriers-icons-1650445.png?f=webp&w=256" alt = "Resume" height = "40" width = "40"/>
   </a>
+  <a href="https://public.tableau.com/app/profile/jason.guan5295/vizzes">
+    <img align="center" src = "https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" height = "40" width = "40"
+  </a>
   <!-- Add other social links here if needed -->
 </p>
 
